@@ -2,6 +2,7 @@
 
 ### Hi there, I am Kaku Sarmah 👋
 
+![Custom badge](https://img.shields.io/endpoint?color=green&label=Twitter&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FKakuSarmah)
 
 
 <!--
