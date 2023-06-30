@@ -1,4 +1,3 @@
-<img src="https://scontent.fblr8-1.fna.fbcdn.net/v/t31.18172-8/13963007_1143861872352677_7817213805613966483_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=7O4nPzdxKS4AX-4Th7o&_nc_ht=scontent.fblr8-1.fna&oh=162cdd26ac5fdef5d832f51250f35a84&oe=61B48D6C" alt="cover image" />
 
 ### Hi there, I am Kaku Sarmah 👋
 
@@ -12,7 +11,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
