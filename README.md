@@ -10,7 +10,7 @@
 - **Front-End:** HTML, CSS, SCSS, JavaScript, React, Angular
 - **Back-End:** Node.js, Express.js
 - **Database:** MongoDB
-- **Tools & Platforms:** Git, GitHub, VSCode, Postman, Netlify, Vercel, Render
+- **Tools & Platforms:** Git, GitHub, VSCode, Postman, Netlify, Render
 - **Others:** Responsive Design, REST APIs, Basic Kafka knowledge
 
 ---
@@ -33,7 +33,7 @@
 
 ## 💋 Contact Me
 
-- **Email:** [kakusarmah@example.com](mailto:kakusarmah@example.com)
+- **Email:** [kakusarmah@gmail.com](mailto:kakusarmah@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/kakusarmah/](https://www.linkedin.com/in/kakusarmah/)
 - **Portfolio:** Coming soon 🛠️
 
