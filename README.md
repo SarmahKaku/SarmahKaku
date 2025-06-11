@@ -35,7 +35,7 @@
 
 - **Email:** [kakusarmah@gmail.com](mailto:kakusarmah@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/kakusarmah/](https://www.linkedin.com/in/kakusarmah/)
-- **Portfolio:** Coming soon 🛠️
+- **Portfolio:** https://kakusarmah.vercel.app/
 
 ---
 
